@@ -1,0 +1,17 @@
+# ignore
+
+libraries/fileTools.h
+libraries/requestResponce.cpp
+libraries/requestResponce.h
+
+Client/.vs
+Client/Debug
+Client/Release
+#Client/Client.sln
+#Client/Client.VC.db
+
+Server/.vs
+Server/Debug
+Server/Release
+#Server/Server.sln
+#Server/Server.VC.db
