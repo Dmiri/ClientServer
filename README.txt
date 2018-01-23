@@ -1,1 +1,1 @@
-This is just a rough(training) draft - draft
+This is just a rough(training) draft
